@@ -1,0 +1,4 @@
+*.json
+.env.k6
+.env
+*.txt
